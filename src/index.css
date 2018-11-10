@@ -36,6 +36,9 @@ body {
 .filterObjectPB {
   height: 390px
 }
+.filterObjectPB2 {
+  height: 500px
+}
 
 .filterStringPB {
   height: 350px;
@@ -47,6 +50,9 @@ body {
 
 .sumPB {
   height: 270px;
+}
+.blackDiamondPB {
+  height: auto;
 }
 
  .resultsBox {
@@ -63,7 +69,7 @@ body {
 }
 
 .filterObjectRB {
-  height: 95px;
+  height: auto;
 }
 
 .filterStringRB {
